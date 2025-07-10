@@ -1,0 +1,29 @@
+1. ¿Qué es Machine Learning?
+B. Algoritmos que hacen que la máquina aprenda sin necesidad de hacer explícita la programación
+
+2. Serie de algoritmos que se especifica como entrada datos y etiquetas y tiene como salida un modelo
+A. Supervised Learning
+
+3. Cuando al modelo ingresamos datos categóricos y la salida del modelo es un número:
+B. Regresión lineal
+
+4. Serie de algoritmos que estipulan recompensa y pérdida por medio de políticas
+C. Reinforcement Learning
+
+5. En batch learning tenemos que aprender sobre la data en el vuelo (a medida que se ingresa)
+B. Falso
+
+6. Cuando estoy haciendo un reconocedor de objetos con reidentificación y declaro un vector de características para establecer si es la misma persona o no:
+B. Aprendizaje basado en instancia
+
+7. ¿Cuál de los siguientes métodos no es un algoritmo no supervisado?
+E. Regresión logística
+
+8. Entrené un algoritmo y tengo 97% accuracy pero tengo 10% accuracy en el test set:
+D. Overfitting
+
+9. Tengo baja precisión en el validation set y también en el test set
+A. Underfitting
+
+10. Entrené el modelo de 40000 datos con el 100% del dataset y tomo como mi test set el 20% del set de datos de entrenamiento
+D. El modelo está mal hecho, hemos de utilizar parte del dataset para training y la otra parte no vista por el modelo como el test set
