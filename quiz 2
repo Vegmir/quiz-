@@ -1,0 +1,30 @@
+1. Tengo un modelo que marca los puntos faciales de una persona
+ D. Es un modelo de regresión
+
+2. Es conocido como distancia Manhattan
+ A. L1 norm
+
+3. Normalmente dividimos el dataset en 80 / 20. A este 20 porciento se le conoce regularmente como
+ C. Test Set
+
+4. Un dato arroja -0.9 en su correlación contra otro dato. Esto significa
+ D. Relación inversa alta
+
+5. Cuando hacemos limpieza de datos tenemos información categórica que podemos ingresar directamente al modelo
+ B. Falso
+
+6. Para entrenar al modelo utilizamos el siguiente método
+ B. .fit()
+
+7. Tengo un split del dataset y voy a aplicar validación cruzada, puedo aplicar esto haciendo
+ A. KFold
+
+8. Puedo obtener los mejores hiperparámetros del modelo AUTOMÁTICAMENTE haciendo
+ A. GridSearch
+
+9. Para servir el algoritmo en una página web debemos obtener
+ B. El modelo en un formato serializable
+
+10. ¿Cuál de las siguientes no es una plataforma para servir una aplicación de IA?
+ D. Yahoo Web Services
+
